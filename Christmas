@@ -1,0 +1,58 @@
+<!DOCTYPE html><html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Merry Christmas 🎄</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background: linear-gradient(to bottom, #b30000, #ff4d4d);
+      color: white;
+      text-align: center;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.15);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+      max-width: 350px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+    .tree {
+      font-size: 4rem;
+      margin: 15px 0;
+    }
+    footer {
+      margin-top: 20px;
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Merry Christmas</h1>
+    <div class="tree">🎄✨</div>
+    <p>
+      ขอให้คริสต์มาสปีนี้
+      เต็มไปด้วยความสุข รอยยิ้ม
+      และสิ่งดี ๆ ตลอดทั้งปี 🎁
+    </p>
+    <footer>
+      ด้วยความปรารถนาดี ❤️
+    </footer>
+  </div>
+</body>
+</html>
